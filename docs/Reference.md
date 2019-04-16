@@ -476,6 +476,7 @@ target
 canGoBack
 canGoForward
 lockIdentifier
+mainDocumentURL (iOS only)
 navigationType
 ```
 
